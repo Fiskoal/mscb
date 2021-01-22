@@ -3,11 +3,8 @@ body {
   padding: 0;
   background-color:#efeee7;
   font-family:"Georgia",Times New Roman,Times, Serif;
-  color:#333333
-}
-
-head {
-  background-color:#333333;
+  color:#333333;
+  line-height:150%;
 }
 
 h1 {
@@ -15,38 +12,40 @@ text-align:center;
 background-color:#333333;
 color:#eee;
 font-size: 28px;
+padding-top: 20px;
+padding-bottom: 20px;
+margin: 0;
 }
 
 h2 {
 font-size: 24px;
-width: 1024px;
-margin: 0 auto;
 }
 
 a {
   color:#d21034;
 }
 
-#container {
+.container {
   width: 1024px;
   margin: 0 auto;
 }
 
+#main-bio,
+#contact-info,
 #bio-image {
-  float: left;
-  width: 200px;
-  padding-left:50px;
+  float:left;
+}
+
+#bio-image {
+  padding-left:25px;
+  padding-right:30px;
 }
 
 #main-bio {
-  float: left;
-  width: 50%;
-  padding-left:140px;
-  padding-top:50px;
+  width: 45%;
 }
 
 #contact-info {
-  float: left;
-  width: 20%;
+  width: 30%;
 }
 
