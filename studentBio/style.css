@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#efeee7;
+  font-family:"Georgia",Times New Roman,Times, Serif;
+  color:#333333
+}
+
+head {
+  background-color:#333333;
+}
+
+h1 {
+text-align:center;
+background-color:#333333;
+color:#eee;
+font-size: 28px;
+}
+
+h2 {
+font-size: 24px;
+width: 1024px;
+margin: 0 auto;
+}
+
+a {
+  color:#d21034;
+}
+
+#container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+#bio-image {
+  float: left;
+  width: 200px;
+  padding-left:50px;
+}
+
+#main-bio {
+  float: left;
+  width: 50%;
+  padding-left:140px;
+  padding-top:50px;
+}
+
+#contact-info {
+  float: left;
+  width: 20%;
+}
+
