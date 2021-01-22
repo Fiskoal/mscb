@@ -1,1 +1,1 @@
-## MSCB
+## MSCB - Michigan State Coding Bootcamp
